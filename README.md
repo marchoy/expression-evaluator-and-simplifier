@@ -47,7 +47,7 @@ Usage example:
 7
 ```
 
-The following EBNF grammar defines a valid explression for `expr`:
+The following EBNF grammar defines a valid expression for `expr`:
 ```
 expr = "(" expr "+" expr ")"
      | "(" expr "-" expr ")"
