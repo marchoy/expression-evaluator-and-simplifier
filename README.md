@@ -1,7 +1,7 @@
 # An Expression Evaluator and Simplifier
 
 The purpose of this class assignment was to implement a Scheme expression evaluator and simplifier. 
-The project contains three parts: creating the environment data structure, an expression evaluator and an expression
+The project contains three parts: creating the environment data structure, an expression evaluator, and an expression
 simplifier.
 
 ### Part 1: Creating an Environment
